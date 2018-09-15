@@ -1,0 +1,2 @@
+const mqtt = require('mqtt');
+var cient = mqtt.connect('www.mqtest.c
